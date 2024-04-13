@@ -1,3 +1,7 @@
 hi
+<<<<<<< HEAD
 master
 master
+=======
+sub_par
+>>>>>>> sub_par
