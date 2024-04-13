@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello dp1 in master
+=======
+hi sp1O
+>>>>>>> sub_par
