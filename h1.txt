@@ -5,3 +5,4 @@ docker
 maven
 aws:-ec2, vpc, iam, s3
 linux
+java opps
